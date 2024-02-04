@@ -3489,6 +3489,7 @@
   "screenshots": [
     "/img/showcase/icdragon_screenshot.png"
   ],
+  "video": "/img/showcase/icdragon_video.mp4",
   "display": "Normal",
   "id": "dragon-eyes",
   "oneLiner": "Provably fair and fun dice rolling game with a quirk",
@@ -3497,9 +3498,10 @@
     "Games"
   ],
   "usesInternetIdentity": false,
-  "github": "https://github.com/lokaverse/icdragon",
+  "github": "https://github.com/icdragoneyes/dragon_canister",
   "twitter": "https://twitter.com/icdragoneyes",
   "youtube": "",
-  "submittableId": ""
+  "submittableId": "",
+  "videoContentType": "video/mp4"
   }
 ]
